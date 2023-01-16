@@ -22,3 +22,5 @@ xmlrpc.php
 /wp-content/themes/twentytwentytwo
 /wp-content/themes/twentytwentythree
 /wp-admin/
+
+.DS_Store
