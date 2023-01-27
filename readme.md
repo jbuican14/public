@@ -17,3 +17,5 @@ https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/#de
 
 https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/theme-json-living/
 https://developer.wordpress.org/block-editor/reference-guides/core-blocks/
+
+functions.php loads before index.php file
